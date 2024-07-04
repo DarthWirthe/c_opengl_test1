@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1714130527 source:c:\users\anbroib\documents\c_projects\test1234567\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	"../_nlib/camera.h"
+
+1695381977 c:\users\anbroib\documents\c_projects\test1234567\_gllib\camera.h
+
+1695729171 source:c:\users\anbroib\documents\c_projects\test1234567\_nlib\camera.c
+	<GL/gl.h>
+	<windows.h>
+	<math.h>
+	"camera.h"
+
+1695383958 c:\users\anbroib\documents\c_projects\test1234567\_nlib\camera.h
+
